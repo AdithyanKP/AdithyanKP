@@ -1,8 +1,8 @@
 ## Hi there 👋
 
--💼 I’m currently working on React js, React native
+💼 I’m currently working on React js and React native
 
--🧠 I’m currently learning React js core
+🧠 I’m currently learning MERN stack 
 
     
 <!--
