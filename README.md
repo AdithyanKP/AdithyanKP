@@ -1,5 +1,9 @@
-### Hey I am ADITHYAN K P
-### Full Stack React Developer
+Hi 👋 My name is Adithyan K P
+============================
+
+Full Stack React Developer
+-----------------
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adityankp777@gmail.com](mailto:adithyankp777@gmail.com)
 
