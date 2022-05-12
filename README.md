@@ -1,4 +1,4 @@
-Hi My name is Adithyan K P
+Hi There👋🏾 I am Adithyan K P
 ============================
 
 Full Stack React Developer
