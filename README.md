@@ -6,7 +6,10 @@ Full Stack React Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adithyan.k.p777@gmail.com](mailto:adithyan.k.p777@gmail.com)
-* 👉🏾 follow me on Twitter [@adithyanKP_](@adithyanKP_)
+
+<a href="https://twitter.com/adithyanKP_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/adithyanKP_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
 
 ### Skills
