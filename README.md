@@ -26,8 +26,7 @@ Full Stack React Developer
 
  ![Adithyan's github stats](https://github-readme-stats.vercel.app/api?username=AdithyanKP&show_icons=true&theme=dark)
 
-<!-- Optional Visitors badge: -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdithyanKP.AdithyanKp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanKP&layout=compact)](https://github.com/AdithyanKP/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/AdithyanKP)
 
