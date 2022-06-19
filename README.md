@@ -24,6 +24,7 @@ Full Stack React Developer
 
 </p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=AdithyanKP&show_icons=true">
+ ![Adithyan's github stats](https://github-readme-stats.vercel.app/api?username=AdithyanKP&show_icons=true&theme=dark)
+
 
 
