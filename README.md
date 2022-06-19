@@ -29,3 +29,5 @@ Full Stack React Developer
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AdithyanKP.AdithyanKp)
 
+![Profile views](https://gpvc.arturio.dev/AdithyanKP)
+
