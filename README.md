@@ -28,6 +28,7 @@ Full Stack React Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanKP&layout=compact&theme=dark)](https://github.com/AdithyanKP/github-readme-stats)
 
+<a href="http://www.github.com/AdithyanKP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyanKP&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![Profile views](https://gpvc.arturio.dev/AdithyanKP)
 
