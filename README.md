@@ -1,7 +1,7 @@
 Hi There👋🏾 I am Adithyan K P
 ============================
 
-Full Stack React Developer
+Software engineer 
 -----------------
 
 * 🌍  I'm based in India
