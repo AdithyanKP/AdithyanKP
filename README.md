@@ -6,8 +6,8 @@ Software engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adithyan.k.p777@gmail.com](mailto:adithyan.k.p777@gmail.com)
-* ⭐  Open take new challenges and collaboration
-
+* ⭐  Open to take new challenges and collaboration
+* 📌  Click here [me](https://adithyankp.netlify.app/)
 
 
 ### Skills
