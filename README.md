@@ -1,7 +1,7 @@
 Hi There👋🏾 I am Adithyan K P
 ============================
 
-Software engineer 
+Javascript engineer 
 -----------------
 
 * 🌍  I'm based in India
