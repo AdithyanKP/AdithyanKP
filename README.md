@@ -6,7 +6,7 @@ Javascript engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adithyan.k.p777@gmail.com](mailto:adithyan.k.p777@gmail.com)
-* ⭐  Open to take new challenges and collaboration
+* ⭐  Open to  new challenges and collaboration
 * 📌  For [More...](https://adithyankp.netlify.app/)
 
 
