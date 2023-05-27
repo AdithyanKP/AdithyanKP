@@ -1,8 +1,9 @@
 Hi There👋🏾 I am Adithyan K P
 ============================
 
-Javascript engineer 
+Software engineer 
 -----------------
+Currently building front end user interface using React Js, Next Js, Tailwind CSS, Svelte, Redux, React native,Netlify. And the backend  Node JS, Express Js, Fastify PostgreSQL, MongoDB, AWS.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adithyan.k.p777@gmail.com](mailto:adithyan.k.p777@gmail.com)
