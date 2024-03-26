@@ -1,30 +1,39 @@
-Hi There👋🏾 I am Adithyan K P
-============================
+# [Adithyan K P] - Backend Engineer
 
-Software engineer 
------------------
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithyan-k-p/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AdithyanKP)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logoColor=white)](https://adithyankp.netlify.app/)
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [adithyan.k.p777@gmail.com](mailto:adithyan.k.p777@gmail.com)
-* ⭐  Open to  new challenges and collaboration
-* 📌  For [More...](https://adithyankp.netlify.app/)
+## About Me
+
+Experienced backend engineer with expertise in Golang, Node.js, Docker, Langchain, React.js, and JavaScript. Proficient in designing and implementing scalable, secure, and efficient backend systems. Passionate about solving complex problems and delivering high-quality software solutions.
+
+## Tech Stack
+
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Langchain](https://img.shields.io/badge/-Langchain-121D33?style=flat&logoColor=white)
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/golang-colored.svg" width="36" height="36" alt="Golang" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+## Expertise
 
-</p>
+- Golang
+- Node.js
+- Docker
+- Langchain
+- JavaScript
+- React.js
 
+## Contact Me
+
+- Email: adithyankp777@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adithyan-k-p/)
+- GitHub: [Your GitHub Profile](https://github.com/AdithyanKP)
+- Portfolio: [Your Portfolio](https://github.com/AdithyanKP)
+
+Feel free to reach out to discuss collaboration opportunities or for any inquiries.
 
