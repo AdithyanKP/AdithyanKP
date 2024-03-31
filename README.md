@@ -31,9 +31,9 @@ Experienced backend engineer with expertise in Golang, Node.js, Docker, Langchai
 ## Contact Me
 
 - Email: adithyankp777@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adithyan-k-p/)
-- GitHub: [Your GitHub Profile](https://github.com/AdithyanKP)
-- Portfolio: [Your Portfolio](https://github.com/AdithyanKP)
+- LinkedIn: (https://www.linkedin.com/in/adithyan-k-p/)
+- GitHub: (https://github.com/AdithyanKP)
+- Portfolio: (https://github.com/AdithyanKP)
 
 Feel free to reach out to discuss collaboration opportunities or for any inquiries.
 
