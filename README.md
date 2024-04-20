@@ -17,17 +17,6 @@ Experienced backend engineer with expertise in Golang, Node.js, Docker, Langchai
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-
-
-## Expertise
-
-- Golang
-- Node.js
-- Docker
-- Langchain
-- JavaScript
-- React.js
-
 ## Contact Me
 
 - Email: adithyankp777@gmail.com
